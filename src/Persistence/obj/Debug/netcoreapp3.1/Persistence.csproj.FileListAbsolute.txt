@@ -1,0 +1,14 @@
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\bin\Debug\netcoreapp3.1\Application.dll
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\bin\Debug\netcoreapp3.1\Domain.dll
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\bin\Debug\netcoreapp3.1\Application.pdb
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\_MyProjects\_.NET Core Angular\Projects\LiberacaoCredito\src\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
